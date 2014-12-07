@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-group :development do
+#group :development do
     gem 'capistrano', '2.15.5'
-end
+#end
 gem 'tzinfo-data'
 gem 'mysql2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
