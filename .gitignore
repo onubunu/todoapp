@@ -18,6 +18,6 @@
 /db/seeds.rb
 /config/application.yml
 /config/database.yml
-#/config/secrets.yml
+
 /config/deploy.rb
 /public/uploads/*
